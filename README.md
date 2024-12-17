@@ -168,9 +168,7 @@ npm run dev
 
 
 
-## License and Credits
-
-[BSD](LICENSE.md) @kalvincalimag
+## Credits
 
 co-contributors for AI-Tutor:
 https://github.com/mhoualla
