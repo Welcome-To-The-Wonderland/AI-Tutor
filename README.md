@@ -3,8 +3,6 @@
 
 This is an AI based tutoring system developed to teach individuals how various PC components work and interact with one another.
 
-TODO: add "optimizations" , "Lessons learned" , Updated images
-
 ## Explanation
 
 Tech Info:
