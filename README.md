@@ -46,9 +46,13 @@ Research backed methods implemented:
 
 ![demo-1](https://res.cloudinary.com/dotera808/image/upload/v1724405550/Demo-1_tbvd6a.gif)
 
-  #### Admin
+#### Admin
+
 ![demo-2](https://res.cloudinary.com/dotera808/image/upload/v1724405550/Demo-2_keiyxj.gif)
-  
+
+#### Application
+
+![demo-3](https://github.com/user-attachments/assets/7d5450e0-933c-4861-8327-31b64bf232ce)
 
 ## Setup
 
